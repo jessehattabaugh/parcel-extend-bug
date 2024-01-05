@@ -1,0 +1,9 @@
+{
+	"devDependencies": {
+		"parcel": "latest",
+		"posthtml-extend": "latest"
+	},
+	"scripts": {
+		"start": "parcel build index.html"
+	}
+}
