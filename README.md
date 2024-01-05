@@ -1,5 +1,5 @@
-# parcel-extend-bug
-isolating an issue with parcel-extend
+# posthtml-extend-bug
+isolating an issue with posthtml-extend
 
 To reproduce the error run `npm install && npm start`
 
